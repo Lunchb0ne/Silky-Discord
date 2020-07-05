@@ -1,0 +1,8 @@
+{
+  "name": "Silky Theme",
+  "description": "This is a Glasscord theme that's been modified to have a dark and silky color palette.",
+  "author": "AryToNeX#9646",
+  "version": "0.0.4",
+  "license": "MIT",
+  "theme": "theme.css"
+}
