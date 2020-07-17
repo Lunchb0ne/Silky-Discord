@@ -74,7 +74,7 @@ textarea {
   /* Discord-specific properties */
   /* Custom (forced) titlebar */
   /* native (default), windows, osx, linux (framed) */
-  --glasscord-titlebar: linux;
+  --glasscord-titlebar: native;
 
   /* 
 		My Color list :
